@@ -1,5 +1,5 @@
 # Playlist Manager
-### test-prep
+
 A playlist app where a user can create a playlist and only the user can view the playlist unless he grants any other user access to his playlist
 
 ### Steps:
